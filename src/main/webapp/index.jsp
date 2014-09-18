@@ -11,6 +11,7 @@
 		<title>Welcome</title>
 	</head> 
 	<body>
+		<h4>Welcome</h4>
 		<c:url value="/showMessage.html" var="messageUrl" />
 		<a href="${messageUrl}">Click to enter</a>
 	</body>
